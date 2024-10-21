@@ -1019,3 +1019,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 खाइलाग्दो देख्दा पोसो, चपाउँदा मैलो पित्तल | Khailaagdo dekhda poso, chapauda mailo pittal | Something that looks attractive or valuable at first glance may turn out to be worthless upon closer inspection.
 <span id="प" style="color:#ff0">**प**</span>  
 प्यास लागेमा पानीको खोजी गर | Pyas lage ma paaniko khoji gara | a reminder to actively pursue your passions when the desire arises.
+<span id="ख" style="color:#ff0">**ख**</span>  
+खुदै खुट्टा तानेर बोट रोप्नुपर्छ | Khudai khutta taaner bot ropnuparcha | signifies the effort needed to pursue one's passions.
+
+
