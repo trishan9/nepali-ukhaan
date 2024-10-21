@@ -1017,3 +1017,5 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 हेर्नेको र छेर्नेको भर हुँदैन    |   	Herne ko ra chherne ko bhar hudaina.   	|   	Don't trust fortune tellers just like you can't trust people with diarrhea (alternately don't trust watchers or cowards)
 <span id="ख" style="color:#ff0">**ख**</span>  
 खाइलाग्दो देख्दा पोसो, चपाउँदा मैलो पित्तल | Khailaagdo dekhda poso, chapauda mailo pittal | Something that looks attractive or valuable at first glance may turn out to be worthless upon closer inspection.
+<span id="प" style="color:#ff0">**प**</span>  
+प्यास लागेमा पानीको खोजी गर | Pyas lage ma paaniko khoji gar | Seek water when you are thirsty; a reminder to actively pursue your passions when the desire arises.
